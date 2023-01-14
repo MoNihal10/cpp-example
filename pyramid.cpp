@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 int main() {
     int rows=0;
     cout<<"Rows of the Pyramid: ";
